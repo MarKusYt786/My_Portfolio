@@ -218,7 +218,7 @@ For a complete list of all third-party models, textures, icons, and references u
 
 ## 💬 Contact
 
-- **Email:** [contact@techinz.dev](mailto:yeswanth.cmk@gmail.com)
+- **Email:** [yeswanth.cmk@gmail.com](mailto:yeswanth.cmk@gmail.com)
 - **LinkedIn:** [Yeswanth Ketha](www.linkedin.com/in/yeswanth-ketha-95b864246)
 
 ## 🤝 Work With Me
