@@ -218,18 +218,17 @@ For a complete list of all third-party models, textures, icons, and references u
 
 ## 💬 Contact
 
-- **Email:** [contact@techinz.dev](mailto:contact@techinz.dev)
-- **LinkedIn:** [Vladyslav Shtatskyi](https://www.linkedin.com/in/vladyslav-shtatskyi-8752092a7/)
-- **Telegram:** [@playweb3](https://t.me/playweb3)
+- **Email:** [contact@techinz.dev](mailto:yeswanth.cmk@gmail.com)
+- **LinkedIn:** [Yeswanth Ketha](www.linkedin.com/in/yeswanth-ketha-95b864246)
 
 ## 🤝 Work With Me
 
 I'm available for freelance projects and full-time positions. If you liked this portfolio and need a Software Engineer -
-**[Email me directly](mailto:contact@techinz.dev) to discuss how I can help you.**
+**[Email me directly](mailto:yeswanth.cmk@gmail.com) to discuss how I can help you.**
 
 ---
 
 ## ⭐️ If you like this project...
 
-- Star it on [GitHub](https://github.com/techinz/galaxy-portfolio)
+- Star it on [GitHub](https://github.com/MarKusYt786/My_Portfolio)
 - Share your feedback or fork for your own cosmic journey!
