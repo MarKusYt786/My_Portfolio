@@ -1,6 +1,6 @@
 # <img src="public/favicon/favicon-32x32.png" width="32" alt="🌌" style="vertical-align:middle;"> Galaxy Portfolio
 
-**A cosmic, interactive 3D portfolio by Vladyslav Shtatskyi - [techinz.dev](https://techinz.dev)**
+**A cosmic, interactive 3D portfolio by Yeswanth Ketha**
 
 [![License: Custom](https://img.shields.io/badge/license-personal--use--only-red)](https://github.com/techinz/galaxy-portfolio/blob/main/LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-techinz.dev-purple?style=flat-square)](https://techinz.dev)
@@ -25,8 +25,6 @@
 ## 🚀 Overview
 
 Welcome to **Galaxy Portfolio** – an interactive 3D portfolio that lets you zoom from the Milky Way galaxy all the way down to my workspace.
-
-**Live Demo:** [techinz.dev](https://techinz.dev)
 
 ## 📸 Demonstration
 
